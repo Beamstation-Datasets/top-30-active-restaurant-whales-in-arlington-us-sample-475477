@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a6cd995f-ca97-4eea-bb3c-165e0f88b20b",
+  "export_job_id": "aeba137b-f68d-407a-a3b3-5b23870ef887",
   "id_short": 475477,
-  "published_at": "2026-04-18T19:11:13Z",
+  "published_at": "2026-04-22T07:32:51Z",
   "repo_name": "top-30-active-restaurant-whales-in-arlington-us-sample-475477",
   "sample_asset_name": "beamstation_475477_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/475477/beamstation_475477_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "4aa44635364952bd308ffa8441d84e7b5a2d6776353de944bcf7e85ff67b5081",
-  "sample_size_bytes": 136230,
-  "total_records": 286
+  "sample_records": 25,
+  "sample_sha256": "30e7c42ef8e4d3baf69c7d3172ad56c37731a55ea0ec02c16af9072313eed4da",
+  "sample_size_bytes": 122480,
+  "total_records": 253
 }
