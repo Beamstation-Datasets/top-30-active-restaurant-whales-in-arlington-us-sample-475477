@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Arlington, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `475477` |
 | Location | Arlington |
 | Category | Restaurants |
-| Full dataset size | 286 records |
-| Free sample size | 28 records (9.79%) |
-| Last export | 2026-04-15T00:08:59.692246+00:00 |
+| Full dataset size | 253 records |
+| Free sample size | 25 records (9.88%) |
+| Last export | 2026-04-22T04:03:16.346310+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-arlington-us-sample-475477/releases/download/sample-latest/beamstation_475477_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
